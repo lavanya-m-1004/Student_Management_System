@@ -104,7 +104,7 @@ StudentManagementSystem/
 
 ### Run from Terminal
 ```bash
-git clone https://github.com/lavanya-m-1004/student-management-system-java.git
+git clone https://github.com/lavanya-m-1004/Student_Management_System.git
 cd student-management-system-java/src
 javac *.java -d ../out
 cd ../out
