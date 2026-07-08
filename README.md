@@ -1,15 +1,5 @@
 # 🎓 Student Management System — Java CLI
 
-<div align="center">
-## [![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)](https://www.oracle.com/java/)
-  
-## [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
-
-## [![License](https://img.shields.io/badge/license-MIT-blue)]()
-</div>
-
----
-
 A robust, console-based **Student Management System** built in core Java, developed as
 part of the **DevRise Internship Program — Batch 1 (2026), Task 1 (Java Development)**.
 
