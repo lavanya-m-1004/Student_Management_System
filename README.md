@@ -84,13 +84,10 @@ in-memory store for a JDBC/MySQL-backed DAO later.
 ```
 StudentManagementSystem/
 ├── assests/
-├── src/
-│   ├── Person.java                    # Abstract base class
-│   ├── Student.java                   # Student model (extends Person)
-│   ├── StudentManager.java            # Business logic + in-memory storage
-│   ├── StudentNotFoundException.java  # Custom checked exception
-│   ├── InvalidInputException.java     # Custom checked exception
-│   └── Main.java                      # CLI entry point / menu loop
+├── src
+│   └── Main.java
+├── gitignore
+├── LICENSE
 └── README.md
 ```
 
