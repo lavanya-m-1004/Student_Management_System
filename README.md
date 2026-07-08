@@ -2,7 +2,9 @@
 
 <div align="center">
 ## [![Java](https://img.shields.io/badge/Java-17%2B-orange?logo=openjdk)](https://www.oracle.com/java/)
+  
 ## [![Status](https://img.shields.io/badge/status-completed-brightgreen)]()
+
 ## [![License](https://img.shields.io/badge/license-MIT-blue)]()
 </div>
 
